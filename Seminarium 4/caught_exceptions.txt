@@ -1,0 +1,4 @@
+Time of occurrence: 2021-05-19T18:26:57.126
+The following exception occurred : ServerConnectionException
+Exception message: Connection to server is down.
+Stack trace: [se.kth.iv1350.retailstore.integration.ExternalInventory.searchItem(ExternalInventory.java:31), se.kth.iv1350.retailstore.controller.Controller.addItem(Controller.java:60), se.kth.iv1350.retailstore.view.View.execution(View.java:54), se.kth.iv1350.retailstore.startup.Main.main(Main.java:18)]
